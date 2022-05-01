@@ -83,3 +83,13 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+#add ignore
+.gradle/*
+.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
