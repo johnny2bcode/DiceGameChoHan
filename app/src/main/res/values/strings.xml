@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">丁半ゲーム</string>
+
+    <!-- 画面上の各部品に対する名称をセット　-->
+    <string name="show_credits_area">残高</string>
+    <string name="select_btn_name_chou">丁</string>
+    <string name="select_btn_name_han">半</string>
+    <string name="select_btn_name_restart">再戦する</string>
+    <string name="select_btn_name_finish">終了する</string>
+
+    <!-- 画面左上に表示するメッセージ -->
+    <string name="layout_default_msg">さあ丁ないか半ないか？</string>
+    <string name="layout_you_win_msg">あなたの勝ちです</string>
+    <string name="layout_you_lose_msg">あなたの負けです</string>
+    <string name="game_finish_you_win_msg">あなたの勝利です</string>
+    <string name="game_finish_you_lose_msg">あなたの敗北です</string>
+
+    <!-- 画像（賭場子）ロングタップ時のメッセージ -->
+    <string name="com_rule_msg">サイコロの目の合計が、丁（偶数）または半（奇数）となるか予測してね</string>
+    <string name="com_game_end_msg">もう一度するか止めるか選んでね</string>
+    <string name="com_you_win_snack_msg">負けたわ。あなた、強いわね…</string>
+    <string name="com_you_lose_snack_msg">また稼いで来てね！</string>
+</resources>
